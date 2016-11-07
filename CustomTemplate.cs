@@ -7,6 +7,9 @@ public class CustomTemplate : UnityEditor.AssetModificationProcessor
     public static void OnWillCreateAsset(string path)
     {
         string file = ".cs";
+        
+        if (!path.Contains(file)) return;
+
         //Removes .meta extension from file path
         path = path.Remove(path.Length - 4);
        
