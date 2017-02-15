@@ -1,5 +1,5 @@
 # Unity3D Custom Template
-Unity3D Custom Template adds license and regions for class members when you create new script.
+Unity3D Custom Template adds license to your new script.
 
 ## Usage
 **Drop "81-C# Script-NewBehaviourScript.cs.txt" file into Script Templates.**
@@ -10,6 +10,7 @@ Unity3D Custom Template adds license and regions for class members when you crea
 
 ## Example
 ```cs
+#region Lisence
 /*================================================================
 Product:    Custom Template
 Developer:  Onur Tanrıkulu
@@ -18,23 +19,10 @@ Date:       28/10/2016 06:28
 
 Copyright (c) 2016 Onur Tanrikulu. All rights reserved.
 ================================================================*/
+#endregion
 
 public class NewScript
 {
-   #region Fields
-   // code here
-   #endregion
- 
-   #region Constructors
-   // code here
-   #endregion
- 
-   #region Properties
-   // code here
-   #endregion
- 
-   #region Methods
-   // code here
-   #endregion
+   
 }
 ```
