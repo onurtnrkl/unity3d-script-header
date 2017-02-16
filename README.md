@@ -10,7 +10,7 @@ Unity3D Custom Template adds license to your new script.
 
 ## Example
 ```cs
-#region Lisence
+#region License
 /*================================================================
 Product:    Custom Template
 Developer:  Onur Tanrıkulu
