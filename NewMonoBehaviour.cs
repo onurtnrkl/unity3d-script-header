@@ -11,7 +11,7 @@ Copyright (c) #YEAR# #COMPANYNAME#. All rights reserved.
 
 using UnityEngine;
 
-public class #SCRIPTNAME# : MonoBehaviour
+public class $safeitemname$ : MonoBehaviour
 {
-    
+
 }
