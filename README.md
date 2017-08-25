@@ -17,7 +17,6 @@ Unity3D Custom Template adds license to your new script.
 /*================================================================
 Product:    Custom Template
 Developer:  Onur Tanrıkulu
-Company:    Onur Tanrikulu
 Date:       28/10/2016 06:28
 
 Copyright (c) 2016 Onur Tanrikulu. All rights reserved.
