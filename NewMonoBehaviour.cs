@@ -10,7 +10,10 @@ Copyright (c) #YEAR# #COMPANYNAME#. All rights reserved.
 
 using UnityEngine;
 
-public class $safeitemname$ : MonoBehaviour
+namespace $safeprojectname$
 {
-
+    internal class $safeitemname$ : MonoBehaviour
+    {
+        
+    }    
 }
