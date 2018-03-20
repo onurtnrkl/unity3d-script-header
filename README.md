@@ -1,4 +1,4 @@
-# Unity3D Custom Template
+# Unity3D Script Template
 Unity3D Custom Template adds license to your new script.
 
 ## Usage
