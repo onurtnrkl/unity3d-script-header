@@ -9,7 +9,7 @@ Unity3D Custom Template adds license to your new script.
 **`If you use Visual Studio Unity Extension, Drop "NewMonoBehaviourScript.cs" file into CSharp MonoBehaviour.`**
 * `Windows: "..\Microsoft Visual Studio\2017\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\ItemTemplates\CSharp\1033\CSharp MonoBehaviour`"
 
-**Add "CustomTemplate.cs" file into your Unity3D project.**
+**Add "ScriptTemplate.cs" file into your Unity3D project.**
 
 ## Example
 ```cs
