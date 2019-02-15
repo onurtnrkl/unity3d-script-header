@@ -1,18 +1,17 @@
-﻿#region License
-/*================================================================
-Product:    #PRODUCTNAME#
-Developer:  #DEVELOPERNAME#
-Date:       #DATE#
-
-Copyright (c) #YEAR# #COMPANYNAME#. All rights reserved.
-================================================================*/
+#region License
+// ====================================================
+// Product:    #PRODUCTNAME#
+// Developer:  #DEVELOPERNAME#
+// Date:       #DATE#
+// Copyright (c) #YEAR# #COMPANYNAME#. All rights reserved.
+// ====================================================
 #endregion
 
 using UnityEngine;
 
 namespace #PRODUCTNAME#
 {
-    internal class #SCRIPTNAME# : MonoBehaviour
+    public class #SCRIPTNAME# : MonoBehaviour
     {
         
     }    
