@@ -18,14 +18,15 @@ namespace ScriptHeader
         private string headerTemplate;
 
         private const string assetPath = "Assets/ScriptHeader/Settings.asset";
-        private const string assetName = "Settings";
-        private const string assetExtension = ".asset";
 
         private static Settings instance;
 
         public static bool HasInstance => instance != null;
+        
         public static string DeveloperName => instance.developerName;
+        
         public static string ScriptExtension => instance.scriptExtension;
+        
         public static string HeaderTemplate => instance.headerTemplate;
 
         public static void CreateInstance()
