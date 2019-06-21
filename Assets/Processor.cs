@@ -10,7 +10,10 @@ namespace ScriptHeader
     {
         static Processor()
         {
-            if (Settings.HasInstance) return;
+            if (Settings.HasInstance)
+            {
+                return;
+            }
             
             Settings.CreateInstance();
         }
